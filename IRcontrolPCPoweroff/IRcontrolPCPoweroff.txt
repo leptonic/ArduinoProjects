@@ -1,0 +1,9 @@
+红外控制关闭atom计算机 20150330
+==============
+HARDWARE
+-------------
+IR modle
+Leonardo arduino
+==============
+IR mode 接收遥控器
+arduino模拟键盘输入关机命令
